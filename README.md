@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @watch-r
-- 👀 I’m interested in coding and anime
-- 🌱 I’m currently learning about Stable diffusion and trying to prompt better images by using different images
-     Hoping to create a model of my own and also trained a model with my picture in it.
-- 📫 How to reach me nabil26268@gmail.com
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning about NEXTjs and trying to make myself better at it.
+     Hope to create unique web applications of my own
+- 📫 How to reach me mahmud.alam.1011@gmail.com
 
 <!---
 watch-r/watch-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
