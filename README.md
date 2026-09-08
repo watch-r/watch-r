@@ -12,15 +12,15 @@
 
   <!-- Quick Links -->
   <a href="https://github.com/watch-r">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=161b22" alt="GitHub" style="border-radius:8px" />
   </a>
   &nbsp;
   <a href="https://portfolio.mahmudalam.top">
-    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=161b22" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=161b22" alt="Portfolio" style="border-radius:8px" />
   </a>
   &nbsp;
   <a href="mailto:mahmudalam.one@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=161b22" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=161b22" alt="Email" style="border-radius:8px" />
   </a>
 
 <br/><br/>
@@ -92,10 +92,11 @@
 <br/>
 
 <!-- Stats Grid -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" height="22" />
+<details>
+<summary><h3 align="center" style="display:inline;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" height="22" />
   GitHub Activity
-</h3>
+</h3></summary>
 
 <div align="center">
 
@@ -115,3 +116,4 @@
   <img src="https://streak-stats.demolab.com?user=watch-r&theme=dark&hide_border=false&background=161b22&border=30363d&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=38bdf8&sideNums=cbd5e1" width="98%" alt="GitHub Streak" />
 
 </div>
+</details>
