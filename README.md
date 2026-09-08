@@ -1,88 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=161b22&text=Mahmud_Alam&fontAlign=50&fontAlignY=35&fontSize=48&fontColor=38bdf8&animation=fadeIn" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Mahmud%20Alam&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=38bdf8&animation=fadeIn" width="100%" alt="Header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=building+things+I+wish+existed.;full-stack+%7C+mobile+%7C+developer+tooling;terminal-first+workflow.;learning%2C+breaking%2C+rebuilding." alt="Typing SVG" />
-</a>
+  <!-- Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=building+things+I+wish+existed.;full-stack+%7C+mobile+%7C+developer+tooling;terminal-first+workflow.;learning%2C+breaking%2C+rebuilding." alt="Typing SVG" />
+  </a>
 
-<br/>
+<br/><br/>
 
-<p>
+  <!-- Quick Links -->
   <a href="https://github.com/watch-r">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8&borderColor=38bdf8" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://portfolio.mahmudalam.top">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="mailto:mahmudalam.one@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" />
   </a>
-</p>
+
+<br/><br/>
+
+  <!-- Sleek Divider -->
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent); margin: 30px 0;" />
 
 </div>
 
-<!-- 🚀 Tech Stack -->
+<br/>
 
-## ⚡ Tech Stack
+<!-- About Section -->
+<div align="center">
+  
+  <code>sleepy</code> &nbsp;•&nbsp; <code>curious</code> &nbsp;•&nbsp; <code>always building</code>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <br/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
-</p>
+<br/><br/>
 
-<!-- 📊 Statistics -->
+  <blockquote>
+    A full-stack & mobile developer focused on building robust tools, slick interfaces, and backend systems from scratch. Driven by curiosity, terminal-first workflows, and low-level engineering.
+  </blockquote>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25" style="filter: invert(100%);" /> Statistics
+</div>
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=watch-r&show_icons=true&theme=dark&bg_color=0d1117&text_color=edeae2&title_color=38bdf8&icon_color=38bdf8&border_color=30363d&hide_border=false"
-    alt="Mahmud Alam's GitHub stats"
-    height="195"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=watch-r&layout=compact&theme=dark&bg_color=0d1117&text_color=edeae2&title_color=38bdf8&border_color=30363d&hide_border=false"
-    alt="Mahmud Alam's most used languages"
-    height="195"
-  />
-  <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=watch-r&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=94a3b8" />
-</p>
+<br/>
 
-<!-- ✍️ About Me -->
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" /> About
-
-<p align="center">
-  <sub><code>sleepy</code> · <code>curious</code> · <code>always building</code></sub>
-</p>
+<!-- Tech Stack Grid -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" />
+  Tech & Tooling
+</h3>
 
 <div align="center">
+
+  <table>
+    <tr>
+      <td align="right" width="120"><b>Languages</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=38bdf8" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Frontend & Mobile</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+      </td>
+    </tr>
+    <tr>
+      <td align="right"><b>Environment</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/WSL2-0d1117?style=flat-square&logo=windows&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=38bdf8" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+<!-- Stats Grid -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" height="22" />
+  GitHub Activity
+</h3>
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api?username=watch-r&show_icons=true&theme=dark&bg_color=0d1117&text_color=94a3b8&title_color=38bdf8&icon_color=38bdf8&border_color=1e293b&hide_border=false" width="100%" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=watch-r&layout=compact&theme=dark&bg_color=0d1117&text_color=94a3b8&title_color=38bdf8&border_color=1e293b&hide_border=false" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
   <br/>
-  <p>
-    <strong>I'm Mahmud Alam</strong><br/>
-    <i>A developer who enjoys building things from scratch and figuring out how they work along the way.</i>
-  </p>
-  <br/>
-  <p>
-    Most of my work lives around <b>TypeScript, React, Next.js, Flutter, and Python</b>, with a growing interest in systems, tooling, and better developer experiences. I've also taken a keen interest in <b>Rust</b> and use <b>Linux</b> as my primary development workspace.
-  </p>
-  <br/>
-  <p>
-    <i>I don't really have a grand five-year plan. I just like making things.</i>
-  </p>
-  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=watch-r&theme=dark&hide_border=false&background=0d1117&border=1e293b&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=38bdf8&sideNums=94a3b8" width="98%" alt="GitHub Streak" />
+
 </div>
